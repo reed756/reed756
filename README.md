@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a BattleShip project](https://reed756.github.io/battleship/)
 
-- 🌱 I’m currently learning **Unit testing using Jest**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
