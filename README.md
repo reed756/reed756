@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a BattleShip project](https://reed756.github.io/battleship/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.JS**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
