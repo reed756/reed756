@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
-- 🔭 I’m currently working on [a BattleShip project](https://reed756.github.io/battleship/)
+- 🔭 I’m currently working on a Firebase backend for [a Library project](https://reed756.github.io/library/)
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Firebase**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, and React.JS**
 
 - 📫 How to reach me **reedandj1@gmail.com**
 
