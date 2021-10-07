@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Gatsby CMS](https://github.com/reed756/gatsby-cms)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://www.jamesreed.dev/](https://www.jamesreed.dev/)
 
