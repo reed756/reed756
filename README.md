@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate frontend developer from London</h3>
+<h3 align="center">An aspiring passionate frontend developer from London</h3>
 
 - 🔭 I’m currently working on [a Gatsby CMS](https://github.com/reed756/gatsby-cms)
 
