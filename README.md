@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">An aspiring passionate frontend developer from London</h3>
 
-- 🔭 I’m currently working on [a Gatsby CMS](https://github.com/reed756/gatsby-cms)
+- 🔭 I’m currently working on [a Where's Waldo game](https://github.com/reed756/wheres-waldo)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Firebase**
 
 - 👨‍💻 All of my projects are available at [https://www.jamesreed.dev/](https://www.jamesreed.dev/)
 
