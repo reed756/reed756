@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Firebase**
 
-- 👨‍💻 All of my projects are available at [https://www.jamesreed.dev/](https://www.jamesreed.dev/)
+- 👨‍💻 All of my projects are available at [https://jamie-reed.com/](https://jamie-reed.com/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React**
 
