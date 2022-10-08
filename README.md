@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Reed</h1>
 <div align="center">
-<a href="https://app.daily.dev/jamesanreed"><img src="https://api.daily.dev/devcards/6c393396e61041d19052572f30875373.png?r=4lg" width="400" alt="James's Dev Card"/></a>
+<a href="https://app.daily.dev/jamesanreed"><img src="https://github.com/reed756/reed756/blob/master/devcard.svg" width="400" alt="James Reed's Dev Card"/></a>
 </div>
 <h3 align="center">A Passionate Junior Software Developer from England</h3>
 
