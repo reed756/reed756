@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Reed</h1>
+<a href="https://app.daily.dev/jamesanreed"><img src="https://api.daily.dev/devcards/6c393396e61041d19052572f30875373.png?r=4lg" width="400" alt="James's Dev Card"/></a>
 <h3 align="center">A Passionate Junior Software Developer from England</h3>
 
 - 🌱 I’m currently learning **MEAN stack**
