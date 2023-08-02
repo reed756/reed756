@@ -4,17 +4,15 @@
 </div>
 <h3 align="center">A Passionate Junior Software Developer from England</h3>
 
-- 🌱 I’m currently learning **MEAN stack**
+- 🌱 I’m currently learning **NgRX**
 
-- 👨‍💻 All of my projects are available at [https://james-reed-portfolio.netlify.app/](https://james-reed-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://james-reed.netlify.app/](https://james-reed.netlify.app/))
 
 - 📝 I regularly write articles on [https://james-reed.hashnode.dev/](https://james-reed.hashnode.dev/)
 
-- 💬 Ask me about **React, Angular, and Ionic**
+- 💬 Ask me about **Angular, Firebase, and Ionic**
 
 - 📫 How to reach me **reedandj1@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAElBtxbSts/mmMhIhPHM05aetr-MPCDpw/view?utm_content=DAElBtxbSts&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAElBtxbSts/mmMhIhPHM05aetr-MPCDpw/view?utm_content=DAElBtxbSts&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I like to play Chess and do Muay Thai.**
 
