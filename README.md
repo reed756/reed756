@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NgRX**
 
-- 👨‍💻 All of my projects are available at [https://james-reed.netlify.app/](https://james-reed.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://james-reed.netlify.app/](https://james-reed.netlify.app/)
 
 - 📝 I regularly write articles on [https://james-reed.hashnode.dev/](https://james-reed.hashnode.dev/)
 
