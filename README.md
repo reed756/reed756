@@ -2,7 +2,7 @@
 <div align="center">
 <a href="https://app.daily.dev/jamesanreed"><img src="https://github.com/reed756/reed756/blob/main/devcard.svg" width="400" alt="James Reed's Dev Card"/></a>
 </div>
-<h3 align="center">A Passionate Junior Software Developer from England</h3>
+<h3 align="center">A Passionate Front End Developer from England</h3>
 
 - 🌱 I’m currently learning **NgRX**
 
