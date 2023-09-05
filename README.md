@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://james-reed.hashnode.dev/](https://james-reed.hashnode.dev/)
 
-- 💬 Ask me about **Angular, Firebase, and Ionic**
+- 💬 Ask me about **Angular, JavaScript, TypeScript, and Node.js**
 
 - 📫 How to reach me **reedandj1@gmail.com**
 
