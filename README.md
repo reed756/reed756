@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm James Reed</h1>
 <h3 align="center">A Front End Developer from London</h3>
 
-- 🔭 I’m currently working on a [Book Inventory App](https://github.com/reed756/book-inventory-app){:target=”_blank”}
+- 🔭 I’m currently working on a <a href="https://github.com/reed756/book-inventory-app" target="_blank">Book Inventory App</a>
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available on my [Portfolio Website](https://james-reed.netlify.app/#/home){:target=”_blank”}
+- 👨‍💻 All of my projects are available on my <a href="https://james-reed.netlify.app/#/home" target="_blank">Portfolio Website</a>
 
 - 💬 Ask me about **Angular or TypeScript**
 
 - 📫 How to reach me **reedandj1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DV-GtiNU4x9o2frUAGQ1RYViXwZmyORribpbRvKWZwQ/edit?usp=sharing](https://docs.google.com/document/d/1DV-GtiNU4x9o2frUAGQ1RYViXwZmyORribpbRvKWZwQ/edit?usp=sharing){:target=”_blank”}
+- 📄 Check out my <a href="https://docs.google.com/document/d/1DV-GtiNU4x9o2frUAGQ1RYViXwZmyORribpbRvKWZwQ/edit" target="_blank">CV</a>
 
 - ⚡ Fun fact **I support Chelsea FC**
 
