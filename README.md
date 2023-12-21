@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm James Reed</h1>
 <h3 align="center">A Front End Developer from London</h3>
 
-- 🔭 I’m currently working on [Angular Challenges](https://github.com/reed756/angular-challenges)
+- 🔭 I’m currently working on a [Book Inventory App]([https://github.com/reed756/angular-challenges](https://github.com/reed756/book-inventory-app))
 
-- 🌱 I’m currently learning **NgRx**
+- 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [https://james-reed-portfolio.netlify.app/](https://james-reed-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available on my [Portfolio Website]([https://james-reed.netlify.app/#/home])
 
 - 💬 Ask me about **Angular or TypeScript**
 
