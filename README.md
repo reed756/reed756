@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm James Reed</h1>
 <h3 align="center">A Front End Developer from London</h3>
 
+[Google](https://www.google.com/){:target="_blank"}
+
 - 🔭 I’m currently working on a <a href="https://github.com/reed756/book-inventory-app" target="_blank">Book Inventory App</a>
 
 - 🌱 I’m currently learning **SQL**
