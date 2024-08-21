@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on <a href="https://github.com/reed756/angular-challenges" target="_blank">Angular Challenges</a>
+- 🔭 I’m currently working on <a href="https://github.com/reed756/angular-challenges" target="_blank">Movie Explorer</a>
 
 - 🌱 I’m currently learning **NgRx** and **Unit Testing**
 
