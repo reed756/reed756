@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Angular**, **TypeScript**, **RxJS** or **Node.js**
 
-- 📄 Check out my <a href="https://docs.google.com/document/d/1DV-GtiNU4x9o2frUAGQ1RYViXwZmyORribpbRvKWZwQ/edit" target="_blank">CV</a>
+- 📄 Check out my <a href="https://docs.google.com/document/d/1IOgptimT4WEYi3dd3LcVC5RjWRPKGTMyT1sbJPyYR9M/edit?usp=sharing" target="_blank">CV</a>
 
 - ⚡ Fun fact **I support Chelsea FC**
 
